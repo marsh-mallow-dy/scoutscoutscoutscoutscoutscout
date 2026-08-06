@@ -9,4 +9,4 @@ wip
 ![Static Badge](https://img.shields.io/badge/my-strawpage-green)
 
 
-<img src="images/IMG_0278.png" alt="Logo" width="300" height="200">
+<IMG_0278.pngsrc="images/IMG_0278.png" alt="Logo" width="300" height="200">
