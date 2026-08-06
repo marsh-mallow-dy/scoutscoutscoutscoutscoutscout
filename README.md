@@ -6,4 +6,4 @@ https://scrapsscout.straw.page
 [![strawpage](https://shields.io)](https://scrapsscout.straw.page)
 ![Static Badge](https://shields.io)
 [![Visit Website](https://img.shields.io/badge/Visit-Website-blue
-![Static Badge](https://img.shields.io/badge/ my-strawpage-blue)
+![Static Badge](https://img.shields.io/badge/my-strawpage-blue)
