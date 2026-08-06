@@ -7,4 +7,3 @@ https://scrapsscout.straw.page
 ![Static Badge](https://shields.io)
 [![Visit Website](https://img.shields.io/badge/Visit-Website-blue
 ![Static Badge](https://img.shields.io/badge/any_text-you_like-blue)
-
