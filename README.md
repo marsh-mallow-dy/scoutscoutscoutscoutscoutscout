@@ -4,5 +4,5 @@ wip
 
 [![strawpage](https://shields.io)](https://scrapsscout.straw.page)
 
-
+<img src="images/logo.png" alt="Logo" width="300" height="200">
 ![Static Badge](https://img.shields.io/badge/my-strawpage-green)
