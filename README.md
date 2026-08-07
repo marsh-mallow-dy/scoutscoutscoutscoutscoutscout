@@ -1,4 +1,22 @@
 wip
+<style>
+  @keyframes fadeEffect {
+    0% { opacity: 0; }
+    50% { opacity: 1; }
+    100% { opacity: 0; }
+  }
+  .fading-text {
+    animation: fadeEffect 3s infinite;
+    font-size: 20px;
+    font-weight: bold;
+    color: #24292e;
+  }
+</style>
+
+<div class="fading-text">
+  This text fades in and out!
+</div>
+
 ![Description](CFEB9E06-C765-4283-9325-797A69ED9580.gif)
 
 [![strawpage](https://shields.io)](https://scrapsscout.straw.page)
