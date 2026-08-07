@@ -6,7 +6,7 @@ wip
     100% { opacity: 0; }
   }
   .fading-text {
-    animation: fadeEffect 3s infinite;
+    animation: fadeEffect 1s infinite;
     font-size: 20px;
     font-weight: bold;
     color: #24292e;
@@ -15,7 +15,6 @@ wip
 
 <div class="fading-text">
   
-</div>
 
 ![Description](CFEB9E06-C765-4283-9325-797A69ED9580.gif)
 
