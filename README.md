@@ -1,5 +1,4 @@
 wip
-![Leapfrog](https://shields.io)
 ![Description](CFEB9E06-C765-4283-9325-797A69ED9580.gif)
 
 [![strawpage](https://shields.io)](https://scrapsscout.straw.page)
