@@ -10,4 +10,5 @@ wip
 ![Static Badge](https://img.shields.io/badge/my-strawpage-green)
 
 
-<img scr="images/IMG_0278.png" alt="uh" width="300" height="200">
+
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fbuild-passing-brightgreen%3Fstyle%3Dfor-the-badge)
