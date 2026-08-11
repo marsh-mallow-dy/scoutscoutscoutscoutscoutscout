@@ -1,6 +1,6 @@
 wip
 
-  ![](https://komarev.com/ghpvc/?username=Sugarcane-username&color=green&label=𝔑𝔢𝔴𝔠𝔬𝔪𝔢𝔯𝔰)
+  ![](https://komarev.com/ghpvc/?username=Sugarcane-username&color=green&label=Newcomers!)
 
 ![Description](CFEB9E06-C765-4283-9325-797A69ED9580.gif)
 
