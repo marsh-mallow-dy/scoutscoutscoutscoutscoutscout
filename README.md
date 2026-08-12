@@ -10,6 +10,11 @@ wip
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=40&duration=1&pause=1000&color=9ACD32&center=true&vCenter=true&width=300&lines=06/04">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=40&duration=1&pause=1000&color=9ACD32&center=true&vCenter=true&width=300&lines=2011">
+</p>
+
+
 
 
   ![](https://komarev.com/ghpvc/?username=Sugarcane-username&color=green&label=Newcomers!)
