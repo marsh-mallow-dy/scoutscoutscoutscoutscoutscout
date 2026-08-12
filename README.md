@@ -14,6 +14,11 @@ wip
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&duration=1&pause=1000&color=9ACD32&center=true&vCenter=true&width=300&lines=2011">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&duration=1&pause=1000&color=9ACD32&center=true&vCenter=true&width=500&height=100&lines=2011">
+</p>
+
+
 
 
 
