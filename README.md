@@ -1,6 +1,6 @@
 wip
 
-<span style="color:#9ACD32"><i>test</i></span>
+<i><font color="#9ACD32">test</font></i>
 
 
 
