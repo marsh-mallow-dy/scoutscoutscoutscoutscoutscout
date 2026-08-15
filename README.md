@@ -74,7 +74,7 @@ wip
 
 
 <div align="center">
-  <img src="Untitled26_20260815015956.png" width="150">
-  <img src="Untitled26_20260815024245.png" width="200">
+  <img src="Untitled26_20260815015956.png" width="200">
+  <img src="Untitled26_20260815024245.png" width="250">
   <img src="YOUR-RIGHT-IMAGE.png" width="150">
 </div>
