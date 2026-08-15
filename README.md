@@ -55,6 +55,11 @@ wip
 
 
 
+<div align="center">
+  <img src="Untitled26_20260815015956.png" width="150">
+  <img src="YOUR-MIDDLE-IMAGE.png" width="200">
+  <img src="YOUR-RIGHT-IMAGE.png" width="150">
+</div>
 
 
   ![](https://komarev.com/ghpvc/?username=Sugarcane-username&color=green&label=Newcomers!)
