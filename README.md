@@ -10,8 +10,8 @@ wip
 </td>
 
 <td align="center">
-<a href="YOUR-MIDDLE-LINK">
-<img src="YOUR-MIDDLE-IMAGE" width="250">
+<a href="https://pronouns.cc/@MsLeapfrog">
+<img src="IMG_0308.jpeg" width="150">
 </a>
 </td>
 
