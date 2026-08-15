@@ -1,6 +1,6 @@
 wip
 
-/api/cardsections=profile,stats,skills&username=Sugarcane&skills=typescript,react&theme=nebula&effects=card:shimmer,avatar:orbit,skills:grid
+/api/card?sections=profile,stats,skills&username=Sugarcane&skills=typescript,react&theme=nebula&effects=card:shimmer,avatar:orbit,skills:grid
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&duration=0&pause=1000000&color=9ACD32&center=true&vCenter=true&width=400&lines=tesst">
