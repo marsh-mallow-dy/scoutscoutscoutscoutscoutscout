@@ -73,4 +73,8 @@ wip
 ![Static Badge](https://img.shields.io/badge/my-strawpage-green)
 
 
-
+<div align="center">
+  <img src="Untitled26_20260815015956.png" width="150">
+  <img src="Untitled26_20260815024245.png" width="200">
+  <img src="YOUR-RIGHT-IMAGE.png" width="150">
+</div>
