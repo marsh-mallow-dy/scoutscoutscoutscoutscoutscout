@@ -24,6 +24,30 @@ wip
 </tr>
 </table>
 
+<table border="0">
+  <tr>
+    <td align="center">
+      <a href="https://scrapscout.straw.page/">
+        <img src="IMG_0278.png" width="150">
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="MIDDLE-LINK">
+        <img src="MIDDLE-IMAGE" width="200">
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="RIGHT-LINK">
+        <img src="RIGHT-IMAGE" width="150">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&duration=0&pause=1000000&color=9ACD32&center=true&vCenter=true&width=400&lines=tesst">
 </p>
