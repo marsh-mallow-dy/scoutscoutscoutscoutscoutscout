@@ -53,13 +53,12 @@ wip
   <img src="RIGHT-IMAGE" width="150">
 </div>
 
+<p>
+  <img src="https://img.shields.io/badge/my-strawpage-green">
+  <img src="https://img.shields.io/badge/pronouns%20-green">
+  <img src="https://img.shields.io/badge/atabook%20-grey">
+</p>
 
-
-<div align="center">
-  <img src="Untitled26_20260815015956.png" width="150">
-  <img src="YOUR-MIDDLE-IMAGE.png" width="200">
-  <img src="YOUR-RIGHT-IMAGE.png" width="150">
-</div>
 
 
   ![](https://komarev.com/ghpvc/?username=Sugarcane-username&color=green&label=Newcomers!)
