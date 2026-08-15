@@ -53,11 +53,14 @@ wip
   <img src="RIGHT-IMAGE" width="150">
 </div>
 
-<p>
+
+
+
+<div align="center">
+  <img src="https://img.shields.io/badge/atabook%20-grey">
   <img src="https://img.shields.io/badge/my-strawpage-green">
   <img src="https://img.shields.io/badge/pronouns%20-green">
-  <img src="https://img.shields.io/badge/atabook%20-grey">
-</p>
+</div>
 
 
 
