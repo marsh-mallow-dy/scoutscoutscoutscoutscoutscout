@@ -64,6 +64,16 @@ wip
 
 
 
+<div align="center">
+  <img src="https://img.shields.io/badge/atabook%20-grey">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/my-strawpage-green">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/pronouns%20-green">
+</div>
+
+
+
   ![](https://komarev.com/ghpvc/?username=Sugarcane-username&color=green&label=Newcomers!)
 
 ![Description](CFEB9E06-C765-4283-9325-797A69ED9580.gif)
