@@ -21,30 +21,11 @@ wip
 </a>
 </td>
 
-</tr>
-</table>
-
-<table border="0">
-  <tr>
-    <td align="center">
-      <a href="https://scrapscout.straw.page/">
-        <img src="IMG_0278.png" width="150">
-      </a>
-    </td>
-
-    <td align="center">
-      <a href="MIDDLE-LINK">
-        <img src="MIDDLE-IMAGE" width="200">
-      </a>
-    </td>
-
-    <td align="center">
-      <a href="RIGHT-LINK">
-        <img src="RIGHT-IMAGE" width="150">
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://scrapscout.straw.page/"><img src="IMG_0278.png" width="150"></a>
+  <a href="MIDDLE-LINK"><img src="MIDDLE-IMAGE" width="200"></a>
+  <a href="RIGHT-LINK"><img src="RIGHT-IMAGE" width="150"></a>
+</div>
 
 
 
