@@ -93,8 +93,20 @@ wip
 
 
 
-<div align="center">
-  <img src="Untitled26_20260815015956.png" width="200">
-  <img src="Untitled26_20260815024245.png" width="200">
-  <img src="Untitled26_20260815033043.png" width="200">
-</div>
+
+
+
+
+<p align="center">
+  <a href="https://leapfrog.atabook.org">
+    <img src="./Untitled26_20260815015956.png" width="140">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://scrapscout.straw.page">
+    <img src="./Untitled26_20260815024245.png" width="140">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://pronouns.cc/@MsLeapfrog">
+    <img src="./Untitled26_20260815033043.png" width="140">
+  </a>
+</p>
