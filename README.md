@@ -1,5 +1,9 @@
 wip
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=24&duration=3000&pause=1000&color=8DC34B&center=true&vCenter=true&width=600&lines=“And+then+one+day”;”you+find+ten+years+have+got+behind+you”;”No+one+told+you+when+to+run”;”you+missed+the+starting+gun”)](https://git.io/typing-svg)
+
+
 <table>
 <tr>
 
