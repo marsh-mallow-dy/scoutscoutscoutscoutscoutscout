@@ -3,8 +3,7 @@ wip
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=40&duration=1&pause=1000&color=8DC34B&center=true&vCenter=true&width=800&height=80&lines=And+then+one+day;you+find+ten+years+have+got+behind+you;No+one+told+you+when+to+run;you+missed+the+starting+gun)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=40&duration=3000&pause=1500&deleteSpeed=50&color=8DC34B&center=true&vCenter=true&width=800&height=80&lines=And+then+one+day;you+find+ten+years+have+got+behind+you;No+one+told+you+when+to+run;you+missed+the+starting+gun)](https://git.io/typing-svg)
 
 <table>
 <tr>
