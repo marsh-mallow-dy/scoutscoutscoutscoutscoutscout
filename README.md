@@ -2,56 +2,11 @@
 
 
 
-<div align="center">
-  <a href="https://scrapscout.straw.page/"><img src="IMG_0278.png" width="150"></a>
-  <a href="MIDDLE-LINK"><img src="MIDDLE-IMAGE" width="200"></a>
-  <a href="RIGHT-LINK"><img src="RIGHT-IMAGE" width="150"></a>
-</div>
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&duration=0&pause=1000000&color=9ACD32&center=true&vCenter=true&width=400&lines=tesst">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=40&duration=1&pause=1000&color=9ACD32&center=true&vCenter=true&width=1000&lines=06/04">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&duration=1&pause=1000&color=9ACD32&center=true&vCenter=true&width=300&lines=2011">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=100&duration=1&pause=1000&color=9ACD32&center=true&vCenter=true&width=500&height=150&lines=2011">
-</p>
-
-
-
-<div align="center">
-  <img src="Untitled26_20260815015956" width="200">
-  <img src="Untitled26_20260815024245" width="200">
-  <img src="RIGHT-IMAGE" width="150">
-</div>
 
 
 
 
-<div align="center">
-  <img src="https://img.shields.io/badge/atabook%20-grey">
-  <img src="https://img.shields.io/badge/my-strawpage-green">
-  <img src="https://img.shields.io/badge/pronouns%20-green">
-</div>
 
-
-
-<div align="center">
-  <img src="https://img.shields.io/badge/atabook%20-grey">
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/my-strawpage-green">
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/pronouns%20-green">
-</div>
 
 
 
